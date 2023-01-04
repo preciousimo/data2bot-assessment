@@ -18,3 +18,5 @@ ARRAY: When the value in an array is another JSON object, the program maps the d
 
 # Example of expected output
 ./schema/expected_output.json
+
+NB: Program can be run from test.py as it goes through the unit test, but it can still be seamlessly executed at main.py without test.
